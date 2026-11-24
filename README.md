@@ -1,16 +1,13 @@
-# PEENO
+# PEENO — Public Profile
 
-Public PEENO identity, application/reusable-package descriptions and repository/release navigation.
+This repository maintains the public GitHub profile and approved public-facing resources for PEENO.
 
-## Public Surface
+## Repository Structure
 
-- README public descriptions and repository links
-- Implementation ownership of published claims and link validation
-- STATUS public document/release-description verification
-- [PEENO Studio](https://github.com/peeno-dev/peeno-studio) and [Spatial Studio](https://github.com/peeno-dev/spatial-studio).
-- [Platform](https://github.com/peeno-dev/platform), [Connectors](https://github.com/peeno-dev/connectors), [UI](https://github.com/peeno-dev/ui) and [Workspace](https://github.com/peeno-dev/workspace).
+- [`profile/README.md`](profile/README.md): Public organization profile.
+- `assets/`: Public branding and supporting visual resources, when applicable.
 
+## Organization
 
-## Implementation And Status
-
-[IMPLEMENTATION.md](IMPLEMENTATION.md) maps owned files, packages and contracts. [STATUS.md](STATUS.md) records current source, verification, dependencies and next gates.
+- [GitHub Organization](https://github.com/peeno-dev)
+- [Organization Profile](profile/README.md)
